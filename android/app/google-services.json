@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "95522210705",
+    "project_id": "parking-ba64b",
+    "storage_bucket": "parking-ba64b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95522210705:android:6dc51c28d0203e8fa51030",
+        "android_client_info": {
+          "package_name": "com.example.giuxe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95522210705-ihtluujbqr1bcc1tmh6m90l4uljfcdol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs_Jnc1bENwPNB7rFuADN2UplV2nn9o8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95522210705-ihtluujbqr1bcc1tmh6m90l4uljfcdol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
